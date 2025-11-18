@@ -1,0 +1,1 @@
+here you see the displacement field associated with a screw dislocation, then from displacement we derive the strain field, and finally the stress from strain using isotropic small strain approximation, i.e, HOOKE's LAW
